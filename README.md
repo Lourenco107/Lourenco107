@@ -13,3 +13,6 @@
     <img align="center" alt= "html5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
     <img align="center" alt= "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div>
+
+##
+![Snake animation](https://github.com/lourenco107/lourenco107/blob/output/github-contribution-grid-snake.svg)
